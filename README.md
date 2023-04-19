@@ -40,9 +40,7 @@ The results of the SVM optimization for each sample are summarized in the table 
 
 
 
-The sample with the highest accuracy was `sample 5`, with an accuracy of `0.802743`. The convergence graph for this sample is shown below:
-
-![Convergence Graph](convergence_graph.png)
+The sample with the highest accuracy was `sample 5`, with an accuracy of `0.802743`. 
 
 ## Conclusion
 
